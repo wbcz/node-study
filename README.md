@@ -2,7 +2,7 @@
 
 first step:
 
-  	npm i formidable --save -dev
+  	npm i formidable --save-dev
   
 second step:
 
